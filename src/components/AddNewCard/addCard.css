@@ -1,0 +1,11 @@
+.newcard {
+    margin: 10px;
+    padding: 10px;
+    color: gray;
+    cursor: pointer;
+    margin:20px 100px 20px 100px
+}
+
+.newcard:hover{
+    color: black;
+}
